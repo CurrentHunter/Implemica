@@ -8,7 +8,7 @@ public class Task2 {
     public static void main(String[] args) throws IOException {
 
         //Location of input file
-        BufferedReader br = new BufferedReader(new FileReader("src/resources/input"));
+        BufferedReader br = new BufferedReader(new FileReader("Task2/src/resources/input"));
 
         //Number of tests
         String line = br.readLine();
